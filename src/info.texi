@@ -1,0 +1,9 @@
+\input texinfo   @c -*-texinfo-*-
+
+This is a info file about this project - SmartCalc_v2.0.
+
+Enter "make all" or "make install" to launch the app.
+
+Enter "make test".
+
+@bye
